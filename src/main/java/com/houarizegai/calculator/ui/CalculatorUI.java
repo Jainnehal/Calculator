@@ -460,7 +460,6 @@ public class CalculatorUI {
                 } else {
                     inputScreen.setText(String.valueOf(typedValue));
                 }
-//                selectedOperator = '√';
                 selectedOperator = '\u221A';
 
                 addToDisplay = false;
